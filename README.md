@@ -43,6 +43,12 @@ python main.py
 | pystray | 系统托盘图标 |
 | Pillow | 图片处理 |
 
+## 感谢与声明
+
+感谢 [https://asmr.one](https://asmr.one/) 平台提供的优质 ASMR 内容。
+
+本工具仅供学习交流使用，请合理使用，不要将本软件和下载的内容用于商业用途或传播。
+
 ### 许可证
 
 本项目采用 AGPL-3.0-or-later 许可证开源。
