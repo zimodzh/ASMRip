@@ -1,0 +1,10 @@
+# ASMRip - Python 依赖列表
+# SPDX-FileCopyrightText: 2026 zimo <zimo@zmlll.top>
+# SPDX-License-Identifier: AGPL-3.0-or-later
+#
+# 安装命令: pip install -r requirements.txt
+
+flask
+orjson
+pystray
+Pillow
