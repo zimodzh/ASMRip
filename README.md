@@ -1,6 +1,7 @@
 # ASMRip
 
-ASMR 本地下载器 - 方便下载 ASMR 音频/视频内容。
+ASMR 本地下载器 - 方便从 [https://asmr.one](https://asmr.one/)下载 ASMR 音频/视频内容。
+这是ASMRip下载器的Windows PC本地版，后续会推出服务器版。
 
 ## 特性
 
