@@ -29,9 +29,9 @@ pip install -r requirements.txt
 
 # 4. 运行
 python main.py
+```
 
-
-### 依赖
+## 依赖
 
 | 包名 | 用途 |
 |------|------|
