@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 
 
-## 依赖
+### 依赖
 
 | 包名 | 用途 |
 |------|------|
@@ -42,7 +42,7 @@ python main.py
 | pystray | 系统托盘图标 |
 | Pillow | 图片处理 |
 
-## 许可证
+### 许可证
 
 本项目采用 AGPL-3.0-or-later 许可证开源。
 
