@@ -26,8 +26,8 @@ ASMR 本地下载器 - 方便从 [https://asmr.one](https://asmr.one/)下载 ASM
 # 1. 安装 Python 3.10+
 
 # 2. 克隆仓库
-git clone https://github.com/你的用户名/asmrdownloader.git
-cd asmrdownloader
+git clone https://github.com/zimodzh/ASMRip.git
+cd ASMRip
 
 # 3. 安装依赖
 pip install -r requirements.txt
