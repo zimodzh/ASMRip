@@ -36,6 +36,25 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## 使用方法
+
+1. 双击运行 `ASMRip.exe`
+2. 浏览器自动打开 `http://127.0.0.1:4565`
+3. 输入 RJ 号（如 RJ123456）搜索作品
+4. 勾选需要下载的文件
+5. 点击「开始下载」
+
+## 常见问题
+
+**Q: 下载的文件在哪？**
+A: 默认保存在 `Download` 目录，按 RJ 号分文件夹存放。
+
+**Q: 支持批量下载吗？**
+A: 是的，可以全选或部分选择文件后批量下载。
+
+**Q: 停止后能继续吗？**
+A: 当前版本停止后需重新开始，但已完成的文件不会重复下载。
+
 ## 依赖
 
 | 包名 | 用途 |
@@ -58,4 +77,14 @@ python main.py
 本项目采用 AGPL-3.0-or-later 许可证开源。
 
 Copyright (c) 2026 zimo <zimo@zmlll.top>
+
+<details>
+<summary>更新日志</summary>
+
+### v1.0.0 (2026-01-28)
+- 初始版本发布
+- 支持 RJ 号搜索下载
+- 集成 Web 图形界面
+
+</details>
 
